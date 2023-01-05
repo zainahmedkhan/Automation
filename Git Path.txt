@@ -1,4 +1,4 @@
 C:\Users\zain.rehani\AppData\Local\Programs\Git
-https://github.com/ZainAKGit69874/E-banking_v1.git
+https://github.com/ZainAKGit69874/HybridFrameworkBDD.git
 
 SSH: git@github.com:ZainAKGit69874/E-banking_v1.git
