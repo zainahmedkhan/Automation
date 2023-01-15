@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-15T16:52:02 PKT" name="Default suite" finished-at="2023-01-15T16:52:12 PKT" duration-ms="10159">
+    <groups>
+    </groups>
+    <test started-at="2023-01-15T16:52:02 PKT" name="Default test" finished-at="2023-01-15T16:52:12 PKT" duration-ms="10159">
+      <class name="com.dropDown.DropDowns">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dropDown.DropDowns@25be7b63]" started-at="2023-01-15T16:52:02 PKT" name="setup" finished-at="2023-01-15T16:52:09 PKT" duration-ms="6648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="selectWithGetOptions()[pri:0, instance:com.dropDown.DropDowns@25be7b63]" started-at="2023-01-15T16:52:09 PKT" name="selectWithGetOptions" finished-at="2023-01-15T16:52:12 PKT" duration-ms="3401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectWithGetOptions -->
+        <test-method signature="selectDropDown()[pri:1, instance:com.dropDown.DropDowns@25be7b63]" started-at="2023-01-15T16:52:12 PKT" name="selectDropDown" finished-at="2023-01-15T16:52:12 PKT" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDropDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.dropDown.DropDowns@25be7b63]" started-at="2023-01-15T16:52:12 PKT" name="tearDown" finished-at="2023-01-15T16:52:12 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dropDown.DropDowns -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
